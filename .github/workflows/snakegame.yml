@@ -26,8 +26,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#ff00ff&color_dots=#161b22,#2d1b4d,#4b0082,#8a2be2,#ff00ff
+          outputs: 
+              dist/github-contribution-grid-snake.svg?color_snake=#ff00ff&color_dots=#161b22,#2d1b4d,#4b0082,#8a2be2,#ff00ff
           
       # Envia o conteúdo para a branch 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
