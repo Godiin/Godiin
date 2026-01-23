@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/Godiin/Godiin/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
