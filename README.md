@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/Godiin/Godiin/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/Godiin/Godiin/output/github-contribution-grid-snake.svg)
 
 ###
 
