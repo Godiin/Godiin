@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ygor and I'm a Técnico de Redes, from Belém-PA</h2>
+<h2 align="left">Hi 👋! My name is Ygor and I'm a Network Technician and smartphone technician, studying cybersecurity in Belém-PA</h2>
 
 ###
 
