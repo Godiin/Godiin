@@ -1,10 +1,10 @@
-# 🚩 OverTheWire: Bandit (Levels 0 → 10) #
+# 🚩 OverTheWire: Bandit (Levels 0 → 10)
 
 Esta é a documentação das soluções dos níveis 0 a 10 do WarGame **Bandit** da plataforma OverTheWire. O objetivo principal deste desafio é praticar comandos básicos de Linux e conceitos de segurança em servidores SSH.
 
 ---
 
-## 🗂️ Tabela de Conteúdos ##
+## 🗂️ Tabela de Conteúdos
 * [Level 0 → Level 1](#level-0--level-1)
 * [Level 1 → Level 2](#level-1--level-2)
 * [Level 2 → Level 3](#level-2--level-3)
@@ -18,7 +18,7 @@ Esta é a documentação das soluções dos níveis 0 a 10 do WarGame **Bandit**
 
 ---
 
-### Level 0 → Level 1 ###
+### Level 0 → Level 1
 * **Conceito:** Acesso inicial ao servidor via SSH utilizando a senha padrão.
 * **Senha obtida:** `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
 * **Comando para o próximo nível:**
